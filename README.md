@@ -1,7 +1,7 @@
 ### Data-Science-Challenge--DAP-EldoHub
 This is my solution for the EldoHub DAP data science challenge 
 
-##The Challenge
+## The Challenge
 
 Consider a dataset providing information on the functionality of infrastructure resources, for each water point it includes the name of the village it is in and its functional state. Implement a data processing module in python which takes a dataset URL as input and returns:
  -	The number of water points that are functional,
