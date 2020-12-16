@@ -56,8 +56,13 @@ NB: 590 Water point are functioning
 
 ![3](https://github.com/Owinoh-victor/Data-Science-Challenge--DAP-EldoHub/blob/main/screenshots/3.JPG)
 
+# 4. Conclusion
 
+High percentage of the water points are functional and few are brocken.
 
+A good number are either abandoned or under construction or newly_constructed
+
+Google Collab  Notebook:  https://colab.research.google.com/drive/1R47uK41R-oqj7dSemaw1baOHSfgov8jT?usp=sharing
 
 
 
