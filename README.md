@@ -28,8 +28,10 @@ Consider a dataset providing information on the functionality of infrastructure 
          
   # 1. Number of Functional Water Point
   
+  ![4](https://github.com/Owinoh-victor/Data-Science-Challenge--DAP-EldoHub/blob/main/screenshots/4.JPG)
   functioning           590
   **************************
+  
   broken                 40
   
   abandoned              36
@@ -52,7 +54,7 @@ NB: 590 Water point are functioning
   # 3. Community Ranking     
   
 
-
+![3](https://github.com/Owinoh-victor/Data-Science-Challenge--DAP-EldoHub/blob/main/screenshots/3.JPG)
 
 
 
